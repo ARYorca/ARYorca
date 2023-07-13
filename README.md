@@ -20,19 +20,13 @@ You can click the Preview link to take a look at your changes.
         <!---# <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li> --->
         <li>📚 &nbsp; Studying SysAdmin Informatik at <a href="https://dfn-cert.de">UT</a></li>
         <li>👑 &nbsp; Junior SysAdmin </li>
-           - 🌱 I’m currently learning ... Linux SysAdmin, Python and Networking
+           <li1>- 🌱 I’m currently learning ... Linux SysAdmin, Python and Networking
            - 💞️ I’m looking to collaborate on ... Firewalling, Shell Scripts and Linux Skills
-          - 👀 I’m interested in ... Interested in DevOps, Machine Learning und Motorsport
+            - 👀 I’m interested in ... Interested in DevOps, Machine Learning und Motorsport </li1>
         <li>🤔 &nbsp; </li>
        </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
     </td>
     <td>
-     <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
      </p>
     </td>
   </tr>
