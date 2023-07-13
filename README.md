@@ -17,13 +17,11 @@ You can click the Preview link to take a look at your changes.
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <!---# <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li> --->
-        <li>📚 &nbsp; Studying SysAdmin Informatik at <a href="https://dfn-cert.de">UT</a></li>
+        <li>📚 &nbsp; Ausbildung: SysAdmin Informatik at <a href="https://www.dfn-cert.de/">DFN-CERT Services GmbH</a></li>
         <li>👑 &nbsp; Junior SysAdmin </li>
-           <li1>- 🌱 I’m currently learning ... Linux SysAdmin, Python and Networking
-           - 💞️ I’m looking to collaborate on ... Firewalling, Shell Scripts and Linux Skills
-            - 👀 I’m interested in ... Interested in DevOps, Machine Learning und Motorsport </li1>
-        <li>🤔 &nbsp; </li>
+        <li>🌱 I’m currently learning ... Linux SysAdmin, Python and Networking </li>
+        <li>💞️ I’m looking to collaborate on ... Firewalling, Shell Scripts and Linux Skills </li>
+        <li>🤔 &nbsp;I’m interested in ... Interested in DevOps, Machine Learning und Motorsport </li>
        </ul>
     </td>
     <td>
