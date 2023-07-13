@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
       <a href="mailto:antonio.ry46@gmail.com" >
       <img align="center" alt="Antonio Rodriguez Yorca | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+      <a href="https://de.linkedin.com/in/rodriguezyorca" >
       <img align="center" alt="Antonio Rodriguez Yorca | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
