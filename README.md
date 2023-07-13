@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
        </ul>
     </td>
     <td>
-     </p>
     </td>
   </tr>
   <tr>
@@ -48,7 +47,7 @@ You can click the Preview link to take a look at your changes.
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="mailto:tabansly78@gmail.com" >
+      <a href="mailto:antonio.ry46@gmail.com" >
       <img align="center" alt="Antonio Rodriguez Yorca | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/TabanSoleymani/" >
