@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>📚 &nbsp; Ausbildung: SysAdmin Informatik at <a href="https://www.dfn-cert.de/">DFN-CERT Services GmbH</a></li>
-        <li>👑 &nbsp; Junior SysAdmin </li>
+        <li>👑 &nbsp; Junior Security Engineer and Linux SysAdmin </li>
         <li>🌱 I’m currently learning ... Linux SysAdmin, Python and Networking </li>
         <li>💞️ I’m looking to collaborate on ... Firewalling, Shell Scripts and Linux Skills </li>
         <li>🤔 &nbsp;I’m interested in ... Interested in DevOps, Machine Learning und Motorsport </li>
